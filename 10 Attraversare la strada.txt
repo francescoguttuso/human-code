@@ -1,0 +1,15 @@
+DATI
+Attraversare la strada
+attenzione ai pericoli
+
+INIZIO
+1 Arrivo al bordo del marciapiede
+2 devo Attraversare
+3 controllo il lato sinistro della strada
+4 controllo il lato destro della strada
+5 Se non arrivano auto:
+    5.1 Attraverso la strada
+    Altrimenti
+    5.2 riparto dal punto 3
+6 Arrivo al marciapiede opposto
+FINE
