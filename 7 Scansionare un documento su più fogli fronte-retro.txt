@@ -1,0 +1,25 @@
+DATI
+documento_cartaceo
+numero_fogli 
+lato_fronte
+lato_retro
+scanner 
+
+INIZIO
+1 trovo la pratica che cercavo
+2 controllo che ci siano tutti i fogli
+3 i fogli sono scritti sia sul fronte che sul retro
+4 decido di scansionare la pratica per archiviarla
+5 preparo lo scanner
+6 PER OGNI foglio del documento:
+      6.1 scansiono lato fronte
+      6.2 gira il foglio manualmente
+      6.3 scansiono lato retro
+7 controllo se ho scansionato tutti i fogli
+    7.1 se ho scansionato tutto vado al punto 8
+    7.2 se ho saltato qualche foglio ripeto punto 6
+8 archivio la pratica in formato digitale
+FINE
+
+
+
