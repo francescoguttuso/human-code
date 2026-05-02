@@ -1,0 +1,19 @@
+DATI
+listino pizze
+scelta pizza
+
+INIZIO
+1 Controllo il listino delle pizze
+2 scelgo una pizza
+3 Per ogni pizza che è presente sulla lista:
+    3.1 scelgo una pizza diversa dal solito
+    3.2 scelgo la classica prosciutto e funghi
+4 ordino la pizza
+5 la pizza arriva a casa
+6 divido la pizza in fette
+7 inizio a mangiare:
+8 se la pizza non è finita ALLORA
+      8.1 metto la fetta avanzata in frigo
+ALTRIMENTI
+      8.2 ripongo lo scatolo dentro la pattumiera
+FINE
