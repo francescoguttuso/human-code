@@ -1,0 +1,20 @@
+DATI
+Foto vacanze 
+modifiche con filtri
+pubblicazione Foto
+
+INIZIO
+1 controllo le foto delle vacanze
+2 per ogni foto:
+    2.1 controllo la bellezza
+    2.2 controllo la luminosità
+3 scelgo la foto migliore
+4 se la foto è perfetta:
+    4.1 La pubblico senza modifiche --- FINE
+5 se la ha bisogno di post-produzione:
+    5.1 applico qualche filtro
+    5.2 correggo la luminosità
+6 controllo la foto modificata:
+    6.1 se non mi piace modificata torno al punto 4
+    6.2 se mi piace puubblico la foto
+FINE
