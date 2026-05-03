@@ -1,0 +1,29 @@
+DATI
+carte da poker
+punteggio black jack
+valore delle carte
+somma punteggio mano giocatore
+somma punteggio mano banco
+
+INIZIO
+1 il giocatore fa la puntata
+2.1 il banco distribuisce 2 carte scoperte se è un giocatore
+2.2 il banco distribuisce 1 carta coperta e una scoperta se è il banco stesso
+3 Il giocatore somma i punteggi delle 2 carte= mano giocatore
+4 se il giocatore non chiama nessuna carta:
+    4.1 punteggio mano stabilito
+    4.2 la mano passa al banco
+5 Finchè punteggio mano <21:
+    5.1 mano giocatore +x carte<21 allora può chiamare un'altra carta
+    5.2 mano giocatore +x carte>21 allora il giocatore ha perso
+    5.3 mano giocaotore +x carte=21 allora il giocatore fa black jack
+6 il banco chiede al giocatore se vuole un’altra carta    
+7 il giocatore sceglie opzione 4
+8 il banco scopre la seconda carta a sua disposizione
+9 Il banco sommma i punteggi delle sue carte:
+    9.1 se somma mano banco < 17 , allora chiama carta
+    9.2 se somma mano banco 21, allora Banco vince FINE
+10 il banco chiama carta 
+    finchè somma banco+valore x carte ≥ 17 e < 21
+11 se somma banco + valore x carte > 21 mano sballata quindi il banco perde
+FINE
