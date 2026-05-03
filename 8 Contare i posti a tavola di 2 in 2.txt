@@ -1,0 +1,15 @@
+DATI
+numero posti disponibili
+numero persone 
+conteggio posti a 2
+
+INIZIO
+1 apparecchiamo il tavolo
+2 controlliamo posti a sedere
+3 conteggio posti 2 alla volta
+    3.1 Se il numero di persone è possibile contarle a coppie senza resto 
+        allora posti sufficienti 
+    3.2 Se il numero di persone non è possibile contarle a coppie 
+        allora posti non sufficienti
+FINE
+
