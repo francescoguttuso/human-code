@@ -1,0 +1,21 @@
+DATI
+lista spesa
+crocchette per Ricky
+coupon
+
+INIZIO
+1 controllo frigo
+2 preparo lista della spesa
+3 Per ogni prodotto mancante 
+    3.1 lo inserisco nella lista della spesa
+4 inserisco le crocchette per Ricky nella lista
+5 vado al supermercato
+6 per ogni prodotto preso dalla lista:
+    lo cancello e passo al prodotto successivo
+    fino a quando non li ho presi tutti
+7 mi dirigo alla cassa
+8 pago i miei prodotti
+9 Se il costo dei prodotti - coupon é <= contanti
+    allora procedo a pagare
+    altrimenti denaro insufficiente
+FINE
