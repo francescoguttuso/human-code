@@ -11,7 +11,7 @@ INIZIO
 3 scelgo la foto migliore
 4 se la foto è perfetta:
     4.1 La pubblico senza modifiche --- FINE
-5 se la ha bisogno di post-produzione:
+5 se la foto ha bisogno di post-produzione:
     5.1 applico qualche filtro
     5.2 correggo la luminosità
 6 controllo la foto modificata:
