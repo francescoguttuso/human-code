@@ -15,6 +15,6 @@ INIZIO
     5.1 applico qualche filtro
     5.2 correggo la luminosità
 6 controllo la foto modificata:
-    6.1 se non mi piace modificata torno al punto 3
-    6.2 se mi piace pubblico la foto
+    6.1 se mi piace pubblico la foto
+    ALTRIMENTI:Scarto questa foto definitivamente e ripeto punto 3
 FINE
